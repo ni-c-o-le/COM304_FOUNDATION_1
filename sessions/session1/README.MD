@@ -65,9 +65,15 @@ Navigate to your own cloned repository at https://github.com/_YOUR_USERNAME_/COM
 This is your own copy which you can modify and use as your choose.
 You cannot write to the `upstream` repository but you can write to this `forked` repo.
 
-By default you will be creating a `public` repository, which means anyone can look at it (but not modify it). 
-You could make this private and restrict access but we do not need to do this in this class.
-(You will be creating your own personal learning record in this repo - but it will be easy to spot if this is not your own work when marking the submission)
+---
+**NOTE**
+
+* Your personal work in your repository will be part of the assessment.
+* By default you will be creating a `public` repository, which means anyone can look at it (but not modify it). 
+  You could make this private and restrict access but we do not need to do this in this class.
+  (You will be creating your own personal learning record in this repo - but it will be easy to spot if this is not your own work when marking the submission)
+
+---
 
 You do want to make your tutor a collaborator on your project as this will allow him to track your progress 
 (In future, if you are working together with another student on the same code, you may also want to make your partner a collaborator).
