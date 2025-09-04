@@ -4,7 +4,7 @@
 
 |  Proposals                              | Title                                                                      |
 |:----------------------------------------|:-----------------------------------------------------------------------|
-| [Proposal 1](../proposals/proposal1.md) | A proposal to replace all the office PC's with a hot desk solution.    |
+| [Proposal&nbsp;1](../proposals/proposal1.md) | A proposal to replace all the office PC's with a hot desk solution.    |
 | [Proposal 2](../proposals/proposal2.md) | A proposal to move software running in the server room into the cloud.  |
 | [Proposal 3](../proposals/proposal3.md) | A proposal to allow counsellors to work from home and connect to the councils systems using a VPN. |
 | [Proposal 4](../proposals/proposal4.md) | A proposal to use Raspberry PI's as IoT devices for counting people in and out of the libraries and museums. |
