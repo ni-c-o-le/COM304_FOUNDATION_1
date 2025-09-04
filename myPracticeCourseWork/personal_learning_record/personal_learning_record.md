@@ -1,5 +1,6 @@
 # Personal Learning Record
 
+|      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
 | Student Name | |
