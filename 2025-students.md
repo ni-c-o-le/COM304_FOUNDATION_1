@@ -1,0 +1,24 @@
+# Student List 2025
+
+List of students and forked repositories.
+
+|github user       | full name                 | student id    | Github URL                                                                                                                                                  | progress |
+|:-----------------|:--------------------------|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|
+|  gallenc         | Craig Gallen (Tutor)      | xxxx          | https://github.com/gallenc/COM304_FOUNDATION_1 <BR> https://github.com/gallenc/COM304_FOUNDATION_1/tree/main/myPracticeCourseWork/personal_learning_record  |          | 
+|                  | Akioya, Abu               | 102562400     |                                                <BR>                                                                                                         |          | 
+|                  | Arikpo, David             | 103070665     |                                                <BR>                                                                                                         |          | 
+|                  | Brookmier, Erin           | 102572649     |                                                <BR>                                                                                                         |          | 
+|                  | Cutts, Florence           | 103126191     |                                                <BR>                                                                                                         |          | 
+|                  | Wiredu, Isaac             | 103104672     |                                                <BR>                                                                                                         |          | 
+|                  | Nurse, Jayden             | 103007845     |                                                <BR>                                                                                                         |          | 
+|                  | Mallory, Jordan           | 103066473     |                                                <BR>                                                                                                         |          | 
+|                  | Radu, Liv                 | 103098898     |                                                <BR>                                                                                                         |          | 
+|                  | Clark, Luka               | 103014005     |                                                <BR>                                                                                                         |          | 
+|                  | Frackowiak, Marek         | 102637731     |                                                <BR>                                                                                                         |          | 
+|                  | Baker, Mohammad           | 103125057     |                                                <BR>                                                                                                         |          | 
+|                  | Martin, Nicole            | 103055639     |                                                <BR>                                                                                                         |          | 
+|                  | Popoola, Paddy            | 103084008     |                                                <BR>                                                                                                         |          | 
+|                  | Tauseef, Raheem           | 103096322     |                                                <BR>                                                                                                         |          | 
+|                  | Ali, Sami                 | 103035837     |                                                <BR>                                                                                                         |          | 
+|                  | White, Shaun              | 103125471     |                                                <BR>                                                                                                         |          | 
+|                  |                           |               |                                                <BR>                                                                                                         |          | 
