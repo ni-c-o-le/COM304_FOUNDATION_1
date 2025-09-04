@@ -2,7 +2,7 @@
 
 # Council proposals
 
-|                                         |                                                                        |
+|  Proposals                              | Title                                                                      |
 |:----------------------------------------|:-----------------------------------------------------------------------|
 | [Proposal 1](../proposals/proposal1.md) | A proposal to replace all the office PC's with a hot desk solution.    |
 | [Proposal 2](../proposals/proposal2.md) | A proposal to move software running in the server room into the cloud.  |
@@ -13,3 +13,4 @@
 | [Proposal 7](../proposals/proposal7.md) | A proposal to move away from using traditional programming towards a low-code/no-code programming paradigm and agile project management methodologies. |
 | [Proposal 8](../proposals/proposal8.md) | A proposal to simplify the councils' operations using Artificial Intelligence. |
 | [Proposal 9](../proposals/proposal9.md) | A proposal to harden the council's security stance against cyber crime. |
+| | |
