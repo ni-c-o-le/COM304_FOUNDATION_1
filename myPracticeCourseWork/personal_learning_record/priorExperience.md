@@ -1,4 +1,4 @@
-[Contents](../personal_learning_record/personal_learning_record.md) | [Prior Experience](../personal_learning_record/priorExperience.md) 
+[Personal Learning Record](../personal_learning_record/personal_learning_record.md) | [Prior Experience](../personal_learning_record/priorExperience.md) 
 
 # Prior Experience
 
