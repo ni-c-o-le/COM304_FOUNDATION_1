@@ -1,6 +1,6 @@
-[Contents](../personal_learning_record/personal_learning_record.md) | [Council Proposal 1](../personal_learning_record/proposal1.md) 
+[Contents](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council proposals
+# Council IT proposals
 
 |  Proposals                              | Title                                                                      |
 |:----------------------------------------|:-----------------------------------------------------------------------|
