@@ -12,7 +12,7 @@
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
 ### SWOT Analysis
-
+*You can use html tables in markdown*
  <table>
   <tr>
     <th>Strength</th>
@@ -21,16 +21,16 @@
   <tr>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
   </tr>
@@ -41,22 +41,24 @@
   <tr>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
   </tr>
 </table> 
 
 ### PEST Analysis
+*You can use html tables in markdown*
+
  <table>
   <tr>
     <th>Political</th>
@@ -65,16 +67,16 @@
   <tr>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
   </tr>
@@ -85,16 +87,16 @@
   <tr>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>idea</li>
+        <li>idea</li>
+        <li>idea</li>
       </ol> 
     </td>
   </tr>
