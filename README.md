@@ -1,8 +1,8 @@
 
-# Foundation Computing Course (COM403) 2024
+# Foundation Computing Course (COM403) 2025
 
 ## Introduction
-Welcome to the tutorial material for Solent University Foundation Computing module (COM403) 2024.
+Welcome to the tutorial material for Solent University Foundation Computing module (COM403) 2025.
 This module will introduce you to some of the foundations of how computers work.
 It is intended to give you a good grounding in computer architecture to prepare for the commencement of a degree in Computing.
 
@@ -95,7 +95,7 @@ See [Session 1](../main/sessions/session1) for more instructions on getting star
 ## Submitting your assessment
 Your assessment will be your personal learning record as written in markdown on github.
 
-Make sure your repository is linked to on the teacher's [2024 Students](../main/2024-students.md)  page
+Make sure your repository is linked to on the teacher's [2025 Students](../main/2025-students.md)  page
 
 Your online github repo will be the material that is marked but for record keeping, you MUST submit a snapshot of your repository on time on SOL.
 
