@@ -1,25 +1,24 @@
 # Personal Learning Record
 
-|      |      |
 |:---- |:---- |
-| Course and Year | COM304 Foundation Computing 2024 | 
+| Course and Year | COM304 Foundation Computing 2025 | 
 | Student Name | |
 | Student Number | |
-| Github Account | |
+| Student Email | |
+| Github Account Username | |
+| Github Submission REpository URL | |
 
 ## Introduction
 
-These markdown pages contain my notes and reflections on the material presented in class and also my personal research and learning around the module.
+These Markdown pages contain my notes and reflections on the material presented in class and also my personal research and learning around the module.
 
-## personal notes
+## Personal Learning Record Sections
 
-| page    | description |
-|:--------|:------------|
-|[Prior Experience](../personal_learning_record/priorExperience.md) | A summary of my knowledge entering this module|
-|[Segment 1 - Computer Architectures](../personal_learning_record/segment1.md) | Experiments and learning about computer architectures |
-|[Segment 2 - Languages and Operating Systems](../personal_learning_record/segment2.md) | Experiments and learning about computer languages and operating systems |
-|[Segment 3 - Networking and Cloud Computing](../personal_learning_record/segment3.md) |  Experiments and learning about networking |
-|[Personal Reflection](../personal_learning_record/personalReflection.md) |A final reflection on what I have learned during this module |
-
+| page    | description | assessment |
+|:--------|:------------|:-----------|
+|[Prior Experience](../personal_learning_record/priorExperience.md) | A summary of my knowledge entering this module| |
+|[Class Sessions](../personal_learning_record/sessions) | My notes on each class session | Suitability and quality of content and discussion (50%) |
+|[Council Proposals](../personal_learning_record/proposals) | My notes on each Council Proposal | Understanding and proper use of technologies (40%) |
+|[Personal Reflection](../personal_learning_record/personalReflection.md) |A final reflection on what I have learned during this module | |
 
 
