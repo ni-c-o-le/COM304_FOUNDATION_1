@@ -7,7 +7,7 @@
 | Student Number | |
 | Student Email | |
 | Github Account Username | |
-| Github Submission REpository URL | |
+| Github Submission Repository URL | |
 
 ## Introduction
 
