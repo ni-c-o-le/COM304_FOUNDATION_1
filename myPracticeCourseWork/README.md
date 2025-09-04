@@ -1,4 +1,4 @@
-# Directory containing my examples
+# Directory containing student examples
 
 ---
 
