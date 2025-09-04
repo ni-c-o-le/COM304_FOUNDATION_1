@@ -9,7 +9,7 @@ A starting template is provided within your [Personal Learning Record](../../../
 You can format and order your learning record in the most useful way you see fit but remember that part of the assignment is to demonstrate that you know how to effectively write documentation using markdown.
 
 You will submit a zipped snapshot of your repository on SOL but I will be marking the material linked to on github.
-Make sure I have a link to your repository on [2024 Students](../../../2024-students.md)
+Make sure I have a link to your repository on [2025 Students](../../../2025-students.md)
 
 ## Project plan
 You need to demonstrate a github project plan which has tracked all of the exercises covered in class. 
