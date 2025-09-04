@@ -1,4 +1,4 @@
-[Contents](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
+[Personal Learnng Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
 # Council Proposal 1
 
