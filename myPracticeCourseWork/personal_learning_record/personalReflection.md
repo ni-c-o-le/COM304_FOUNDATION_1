@@ -1,4 +1,4 @@
-[Contents](../personal_learning_record/personal_learning_record.md) | [Personal Reflection](../personal_learning_record/personalReflection.md) 
+[Personal Learning Record](../personal_learning_record/personal_learning_record.md) | [Personal Reflection](../personal_learning_record/personalReflection.md) 
 
 # personal reflection
 
