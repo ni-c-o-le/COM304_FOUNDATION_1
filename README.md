@@ -1,4 +1,6 @@
 
+![alt text](../main/docs/images/solentLogo.png "Figure solentLogo.png" )
+
 # Foundation Computing Course (COM403) 2025
 
 ## Introduction
