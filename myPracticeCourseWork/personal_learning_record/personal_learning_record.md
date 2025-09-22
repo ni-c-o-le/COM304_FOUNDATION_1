@@ -3,12 +3,11 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
-| Github Submission Repository URL | |
-
+| Student Name | Nicole Martin |
+| Student Number | 103055639 |
+| Student Email | 0martn39@solent.ac.uk |
+| Github Account Username |ni-c-o-le |
+| Github Submission Repository URL | https://github.com/ni-c-o-le/COM304_FOUNDATION_1|
 ## Introduction
 
 These Markdown pages contain my notes and reflections on the material presented in class and also my personal research and learning around the module.
