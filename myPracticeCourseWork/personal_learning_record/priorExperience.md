@@ -10,9 +10,9 @@
 
 ---
 
-In 2020 during covid, I started to take an interest in gaming and started to research creating my own plug-ins and mods for minecraft. I then started to do some free online courses in computing.
+In 2020 during covid, I started to take an interest in gaming and started to research creating plug-ins and mods for minecraft. I then started to do some free online courses in computing.
 
-I attended college for 2 years where I studied IT: Digital, Production, Design and development. This course focused on Using IT in a business and python programming. I learned about Networks, The Cloud, Computer components, Terminoligy, Boolean Logic, Binary and Basic Coding like python, HTML, CSS, JAVA and SQL.
+I attended college for 2 years where I studied IT: Digital, Production, Design and development. This course focused on Using IT in a business and python programming. I learned about Networks, The Cloud, Computer components, Terminoligy, security, Boolean Logic, Binary and Basic Coding like python, HTML, CSS, JAVA and SQL.
 
 I had a college placement with an IOT comapny called 'Velocity RDT' where we worked on a project of Automation and building new houses for the less fortunate and placing QR codes on smart appliances as guidence for them.
 
