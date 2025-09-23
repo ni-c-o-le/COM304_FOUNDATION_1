@@ -3,19 +3,15 @@
 # Session 1
 
 ## Topics covered
-*What topics were covered in this session*
 
-
+We did an introduction to the course, met our classmates and got an understanding of their knowledge. We then started to cover the history of computing and the development timeline.
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-
+I have gone though the slides in more detail making sure i understand each point and how everything ties together.
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
 
 
 
 ## Summary of learning
-*What did you learn through these exercises*
