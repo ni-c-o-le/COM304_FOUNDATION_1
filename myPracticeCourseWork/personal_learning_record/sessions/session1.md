@@ -1,4 +1,4 @@
-[Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [Session Notes](../sessions/README.md) 
+[Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [Session Notes](../sessions/README.md)
 
 # Session 1
 
@@ -8,10 +8,11 @@ We did an introduction to the course, met our classmates and got an understandin
 
 ## Personal Notes and research following this session
 
-I have gone though the slides in more detail making sure i understand each point and how everything ties together.
+I have gone though the slides in more detail making sure I understand each point/ milestone and how everything ties together.
 
 ## Exercises and results
 
 
 
 ## Summary of learning
+
