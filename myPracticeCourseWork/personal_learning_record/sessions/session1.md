@@ -19,7 +19,7 @@ Setting up Raspberry Pi for class experiments, installing the operating system.
 
 Book to read - Computer organization and architecture by william stallings 2021
 
-I learned that Git was created by Linus Torvalds, the same person who developed Linux, and it’s essential for version control in collaborative projects.
+I learned that Git was created by Linus Torvalds, the same person who developed Linux.
 
 I researched more about Charles Babbage and Ada Lovelace — Ada is often considered the world’s first computer programmer because she wrote algorithms for Babbage’s Analytical Engine.
 
