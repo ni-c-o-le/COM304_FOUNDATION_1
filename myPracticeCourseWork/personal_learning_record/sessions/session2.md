@@ -3,19 +3,22 @@
 # Session 2
 
 ## Topics covered
-*What topics were covered in this session*
 
+Computer architecture
 
+Github clone and merge
+
+Binary and Boolean
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+Turning machine / Von-Neumman Architecture
 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+
 
 
 
 ## Summary of learning
-*What did you learn through these exercises*
