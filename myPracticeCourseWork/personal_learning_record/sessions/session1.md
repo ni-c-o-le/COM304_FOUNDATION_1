@@ -13,16 +13,17 @@ Start Project
 
 ## Personal Notes and research following this session
 
-We did an introduction to the course, met our classmates and got an understanding of their knowledge. We then started to cover a short history of computing and the development timeline. This included elements of components, programming languages, operating systems, security, networking, cloud. Starting from mechanical 
+Book to read - Computer organization and architecture by william stallings 2021
+
+We did an introduction to the course, met our classmates and got an understanding of their knowledge. We then started to cover a short history of computing and the development timeline. This included elements of components, programming languages, operating systems, security, networking, cloud. 
 
 Created a Git account and forked a repository from Craig so we can start to show our own learning in our personal learning record.
-
-learnt how to install a raspberry pi, set up wifi and browse the internet. We experemented with the terminal, running simple commands and finding others IP addresses.
 
 Created our own project on git to show all excersises.
 
 ## Exercises and results
 
+learnt how to install a raspberry pi, set up wifi and browse the internet. We experemented with the terminal, running simple commands and finding others IP addresses.
 
 
 ## Summary of learning
