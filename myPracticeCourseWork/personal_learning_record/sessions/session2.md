@@ -24,7 +24,7 @@ I explored the differences between RISC and CISC processors:
 -RISC has fewer, simpler instructions, making it more efficient for low-power devices like the Raspberry Pi.
 -CISC has a larger instruction set and is more powerful for desktop systems like PCs.
 
-We practised using binary and hexadecimal conversions and realised how hexadecimal helps make binary easier for us to read.
+We practised using binary and hexadecimal conversions and how hexadecimal helps make binary easier for us to read.
 
 Two’s complement arithmetic lets computers show negative numbers without needing extra subtraction parts. We take the positive number, flip it and add 1. For example 5 - 0101, flip all the bits - 1010 and add 1 - 1011.
 
