@@ -14,6 +14,7 @@ Introduced us to the personal learning record on Git which shows personal progre
 
 Setting up Raspberry Pi for class experiments, installing the operating system.
 
+Introduction to Project management and examples of how teams can work.
 
 ## Personal Notes and research following this session
 
@@ -35,7 +36,7 @@ Created a GitHub account and explored repository setup, cloned the class reposit
 
 Worked with a partner to set up a Raspberry Pi, including installing the operating system using the Raspberry Pi Imager and connecting peripherals. We experemented with the terminal, running simple commands and finding others IP addresses.
 
-Created a simple project board on GitHub to track my learning progress with To Do, In Progress and Completed sections.
+Created a simple project board on GitHub to track my learning progress with To Do, In Progress and Completed sections. We learn about the different types of project management, Waterfall and Agile. Waterfall is where one task follows another but cannot overlap this is commonly used when a contract is in place - the team gets paid after each stage is complete, this sometimes means the end user is not getting the result they wanted as there a little oppertunities to meet with the team. Agile is where a team workd in sprints
 
 ## Summary of learning
 
