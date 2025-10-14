@@ -30,7 +30,7 @@ Two’s complement arithmetic lets computers show negative numbers without needi
 
 Logic gates and adders and flip-flops. (need a better understanding on this - ask craig)
 
-I installed Git on Windows and learned how to clone repositories locally, using a Personal Access Token for authentication.
+I installed Git on Windows and learned how to clone repositories locally.
 
 ## Exercises and results
 
