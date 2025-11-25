@@ -3,9 +3,13 @@
 # Session 3
 
 ## Topics covered
+
 Peripherals architecture in the raspberry pi
+
 GPIO (Generak purpose input/output) pins and their flexibility
+
 Experiments with LEDs and the Gerboard
+
 Setting up simple trasffic light examples
 
 
