@@ -30,6 +30,8 @@ I looked into the Raspberry Pi website to understand its purpose — a small, af
 
 I also found the evolution of storage interesting — from punch cards and magnetic core memory to modern RAM and ROM technology.
 
+[Strawn, G., 2023. Masterminds of Computer Design: Charles Babbage and Ada Lovelace. IT Professional, 25(4), pp.7-10.](https://ieeexplore.ieee.org/abstract/document/10224784)
+
 ## Exercises and results
 
 Created a GitHub account and explored repository setup, cloned the class repository to my PC.
