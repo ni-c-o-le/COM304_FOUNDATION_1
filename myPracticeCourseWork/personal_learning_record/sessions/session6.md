@@ -3,19 +3,29 @@
 # Session 6
 
 ## Topics covered
-*What topics were covered in this session*
+Structure and purpose modern operating systems
+
+scheduling and multitasking in OS
+
+Memory management and virtual memory
+
+Kernel vs. user processes
+
+Assembly and C programming on CPUlator and Raspberry PI
+
+7-segmant display excersises
+
+
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
-
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+
