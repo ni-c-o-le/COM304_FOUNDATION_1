@@ -21,14 +21,14 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Takes up less space when supporting shift workers</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>lack oh team cohesion</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
@@ -41,14 +41,14 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>cost reduction as fewer desks are needed</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Security as you dont know who your neighbour is</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
