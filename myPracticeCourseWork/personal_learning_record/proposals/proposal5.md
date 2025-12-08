@@ -10,7 +10,8 @@
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
-
+https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/uk-government-prescribes-open-source-public-procurement
+https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
