@@ -11,6 +11,8 @@
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+[Millward, L.J., Haslam, S.A. and Postmes, T., 2007. Putting employees in their place: The impact of hot desking on organizational and team identification. Organization Science, 18(4), pp.547-559.](https://www.researchgate.net/profile/S-Haslam/publication/258278295_2007_OS_Space/links/0deec527acf3b90223000000/2007-OS-Space.pdf)
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
