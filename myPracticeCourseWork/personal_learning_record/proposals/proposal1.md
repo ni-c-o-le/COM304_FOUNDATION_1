@@ -67,14 +67,14 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>makes councel more effcient for constituents</li>
+        <li>need to overcome union suspicion</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>potentially saving money</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
@@ -87,15 +87,15 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>could be bad for staff welfare</li>
+        <li>allows for more flexible working (job sharing)</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>greener soloution?</li>
+        <li>low risk of implementation</li>
         <li>idea</li>
       </ol> 
     </td>
