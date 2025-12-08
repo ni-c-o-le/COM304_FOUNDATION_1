@@ -10,7 +10,7 @@
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
-
+https://www.theguardian.com/technology/2025/oct/21/significant-exposure-amazon-web-services-outage-exposed-uk-states-17bn-reliance-on-tech-giant
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
