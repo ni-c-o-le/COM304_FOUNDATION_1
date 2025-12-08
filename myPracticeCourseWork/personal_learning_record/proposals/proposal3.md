@@ -10,7 +10,7 @@
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
-
+https://publications.parliament.uk/pa/ld5901/ldselect/ldhomework/196/196.pdf
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
